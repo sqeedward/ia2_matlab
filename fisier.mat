@@ -1,0 +1,22 @@
+# Created by Octave 6.4.0, Sat Apr 15 17:06:40 2023 EEST <student@uso.local>
+# name: A
+# type: matrix
+# rows: 4
+# columns: 4
+ 16 2 3 13
+ 5 11 10 8
+ 9 7 6 12
+ 4 14 15 1
+
+
+# name: Y
+# type: matrix
+# rows: 5
+# columns: 1
+ 1
+ 2
+ 3
+ 4
+ 5
+
+
